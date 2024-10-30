@@ -5,7 +5,7 @@
 
 * 🎓 Bachelor's degree in Mechatronics Engineering from Misr University for Science and Technology
 * 💻 Junior machine learning engineer with hands-on projects, including real-time PPE compliance detection
-* Know more about my experience? [Mostafa-Kuraitem-Resume.pdf](https://drive.google.com/file/d/15S00Fqk9Cx-zlqKogUwjT8IIWi337NNO/view?usp=sharing)
+* Know more about my experience? [Mostafa-Kuraitem-Resume.pdf]([https://drive.google.com/file/d/15S00Fqk9Cx-zlqKogUwjT8IIWi337NNO/view?usp=sharing](https://drive.google.com/file/d/1Kn79tzdogZU5Jm7xtwAzk-yqcjTeI89X/view?usp=sharing))
 
 ### Contact Me
 
